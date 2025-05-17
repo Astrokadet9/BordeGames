@@ -1,0 +1,97 @@
+header{
+    background-color: #333333;
+    text-align: center;
+    color: #00CED1;
+}
+
+main{
+    background-color: #00CED1;
+}
+
+
+footer{
+    background-color: ;
+}
+
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: #00CED1;
+    font-size: 20px;
+    padding: 7px;
+}
+
+h1{
+    text-align: center;
+}
+
+.oblochko{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: black solid 6px;
+}
+
+
+.oblochko1{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-top: 350px;
+    border: black solid 6px;
+    box-shadow: inset 3 5 6;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute ;
+    right: 50px;
+    border: black solid 6px;
+}
+
+.bone{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+}
+
+.fa{
+    position:absolute;
+    border-radius:50% ;
+    right: 50px;
+    border: black solid 6px;
+}
+
+.games{
+    margin-top:400px ;
+}
+
+.mener{
+    margin-top:100px ;
+    width: 300px;
+    margin-left:50px ;
+    font-size: 17px;
+}
+
+.mener1{
+    margin-top:100px ;
+    width: 300px;
+    margin-left:50px ;
+}
+
+.ner{
+    display: flex;
+}
+
+.nert{
+    width: 250px;
+    height: 300px;
+    background-color:white ;
+    border: black 6px solid;
+}
